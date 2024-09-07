@@ -8,3 +8,5 @@ Under Armour
 Nike
 
 Addidas
+
+The objective is to find the best distribution to invest 1000 dollars in these 4 companies and obtain the greatest return. 
